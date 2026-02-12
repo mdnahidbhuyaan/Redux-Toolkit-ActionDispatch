@@ -1,4 +1,3 @@
-import React, { use } from 'react'
 import { useDispatch, useSelector } from 'react-redux'
 import { decrement, increment, increseByAmount } from './redux/feature/counterSlice'
 import { useState } from 'react'
